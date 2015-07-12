@@ -20,10 +20,6 @@ body {
     background-image: url(images/tartan.png);
     background-position: center;
     background-repeat: repeat-x, repeat-y;
-    background-color: #A2C0A7;
-    background-position: center;
-    background-repeat: no-repeat;
-
 }
 .navbar-inverse {
     background-color: #5E2241;
