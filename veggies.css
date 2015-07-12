@@ -1,0 +1,23 @@
+html {
+    /* Needed to fix footer at bottom of browser */
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Move down content because of fixed navbar at top */
+    padding-top: 50px;
+    /* Set margin bottom allow for footer height */
+    margin-bottom: 50px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: #222222;
+    color: #9d9d9d;
+    text-align: center;
+    padding: 15px;
+}
