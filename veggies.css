@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> cc2727e6b644dcfa088b0a748ff1953f7c8200fc
 html {
     /* Needed to fix footer at bottom of browser */
     position: relative;
@@ -17,11 +11,7 @@ body {
     margin-bottom: 50px;
 }
 
-<<<<<<< HEAD
 footer {
-=======
-container {
->>>>>>> cc2727e6b644dcfa088b0a748ff1953f7c8200fc
     position: fixed;
     bottom: 0;
     height: 50px;
@@ -30,8 +20,4 @@ container {
     color: #9d9d9d;
     text-align: center;
     padding: 15px;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> cc2727e6b644dcfa088b0a748ff1953f7c8200fc
